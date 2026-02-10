@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>Pavithra D G</h3>
+<h3>Pavithra D</h3>
 <h3>2122232301</h3>
 <h3>EX.NO-1</h3>
 <h3>DATE:10/02/2026</h3>
